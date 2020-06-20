@@ -14,3 +14,5 @@ Within this github repository are the following folders:
 
 ##Data - Contains all data used in the case studies in the paper
 
+With Code folder is the code for each case study presented in the Paper. 
+The Vanlaningham&Mark folder contains four notebooks for each mixture. Each notebook reads in a dataframe, for the individual data in the code folder. The code is then analysed as shown in each code folder. 
