@@ -15,4 +15,8 @@ Within this github repository are the following folders:
 ##Data - Contains all data used in the case studies in the paper
 
 With Code folder is the code for each case study presented in the Paper. 
-The Vanlaningham&Mark folder contains four notebooks for each mixture. Each notebook reads in a dataframe, for the individual data in the code folder. The code is then analysed as shown in each code folder. 
+The Vanlaningham&Mark folder contains four notebooks for each mixture. Each notebook reads in a dataframe, each dataframe is the the data folder. The code read in each dataframe frame then carries out the Bayesian analysis that is described in the paper.  
+
+The kula case studies are in the Kula case study folder. The data for these notebooks are in the data folder. Each notebook reads in a a mixture dataset and then is analysed with the Bayesian model described in the paper. 
+
+The final case study is in the Mars surface case study. In this notebook the datasets is forward modelled then inverted with the Bayesian model. 
