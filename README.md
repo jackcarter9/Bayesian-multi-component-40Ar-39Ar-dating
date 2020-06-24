@@ -19,4 +19,8 @@ The Vanlaningham&Mark folder contains four notebooks for each mixture. Each note
 
 The kula case studies are in the Kula case study folder. The data for these notebooks are in the data folder. Each notebook reads in a a mixture dataset and then is analysed with the Bayesian model described in the paper. 
 
+The Muscovite test model is a forwarded then analysis dataset assuming the ages, diffusion kinetics and mixing fraction of Kula muscovite mixture one. In the code file the dataset is created and then analysed in the same fashion as all other dataset. In this model we do not constrain the mixing fraction but show that when two components have identical kinetics additional information is required to extract real geological infomation.
+
 The final case study is in the Mars surface case study. In this notebook the datasets is forward modelled then inverted with the Bayesian model. 
+
+ 
